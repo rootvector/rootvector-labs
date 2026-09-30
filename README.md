@@ -31,7 +31,7 @@ Some writeups may also include HTTP requests and responses, Burp Suite observati
 I currently use this repository to document labs from:
 
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
-- TryHackMe
+- [TryHackMe](https://tryhackme.com)
 - CTF platforms
 - Vulnerable web applications
 - Local security labs
@@ -192,8 +192,6 @@ I'm a cybersecurity student interested in penetration testing, offensive securit
 
 I use RootVector as my personal identity for documenting this journey and sharing the things I build and learn.
 
-GitHub: https://github.com/rootvector
-
-TryHackMe: https://tryhackme.com/p/rootvector
-
-Portfolio: https://rootvector.github.io/rootvector.sec/
+[GitHub](https://github.com/rootvector)
+[TryHackMe](https://tryhackme.com/p/rootvector)
+[Portfolio](https://rootvector.github.io/rootvector.sec/)
